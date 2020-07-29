@@ -12,3 +12,14 @@ h1, h2 {
     color: red;
     font-weight: bold;
 }
+
+li{
+    list-style: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border:1px solid #29b6f6;
+}
+
+a{
+
+}
